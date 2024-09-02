@@ -1,0 +1,84 @@
+.thumbnail {
+    border: 2px solid rgb(188, 192, 192);
+}
+.exp-text {
+    padding: 20px 0 20px 0;
+    font-size: 16px;
+}
+/** paddings */
+.mg-0 {
+    margin: 0px;
+}
+.pd-0 {
+    padding: 0px;
+}
+.pr-1 {
+    padding-right: 0.25rem;
+}
+.pr-2 {
+    padding-right: 0.50rem;
+}
+.pr-3 {
+    padding-right: 0.75rem;
+}
+.pr-4 {
+    padding-right: 1rem;
+}
+.pl-1 {
+    padding-left: 0.25rem;
+}
+.pl-2 {
+    padding-left: 0.50rem;
+}
+.pl-3 {
+    padding-left: 0.75rem;
+}
+.pl-4 {
+    padding-left: 1rem;
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem;
+}
+.pb-2 {
+    padding-bottom: 0.50rem;
+}
+.pb-3 {
+    padding-bottom: 0.75rem;
+}
+.pb-4 {
+    padding-bottom: 1rem;
+}
+/** end paddings */
+/** borders */
+.br-t {
+    border-top: 1px solid rgba(160,160,160,0.2);    
+}
+.br-b {
+    border-bottom: 1px solid rgba(160,160,160,0.2);
+}
+.brd {
+    border-radius: 25px;
+}
+/** end borders */
+/** floats */
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+/** end floats */
+/** colors */
+.nb{color: blue;}
+.ni{color: orange}
+.na{color: green}
+/** end colors */
+/** background colors */
+.collapsible-body {
+    background-color: #c5e1a5;
+}
+.fap {
+    background-color: #78909c;
+}
+/** end background colors */
