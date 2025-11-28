@@ -61,117 +61,53 @@ Aspirar a un cargo como Analista Programador o Desarrollador Web en una empresa 
 
 - PHP Frameworks:
    - CodeIgniter 3 — Avanzado
-      - Laravel — Básico
-      - Bases de Datos:
-         - PostgreSQL — Avanzado
-            - MySQL — Intermedio
-               - MongoDB — Básico
-               - Otros:
-                  - Node.js — Intermedio
-                     - Git — Intermedio
-                     
-                     🎨 Frontend
-                     
-                     - Frameworks JavaScript:
-                        - Angular — Intermedio
-                           - Vue — Intermedio
-                              - React — Básico
-                                 - Sails — Básico
-                                 - CSS Frameworks:
-                                    - Bootstrap — Avanzado
-                                       - Materialize — Intermedio
-                                          - Bulma — Básico
-                                             - Tailwind CSS — Básico
-                                             
-                                             ---
-                                             
-                                             🌍 Información Personal
-                                             
-                                             - Nombre: Omar Andrés Rodríguez S.
-                                             - Nacionalidad: Venezolana
-                                             - Dirección: Maracay, Estado Aragua — Venezuela
-                                             - Emails:
-                                                - omargumer22@gmail.com
-                                                   - oarodriguez.s@hotmail.com
-                                                   
-                                                   ---
-                                                   
-                                                   🔗 Redes Sociales
-                                                   
-                                                   - GitHub: https://github.com/oarodriguez29
-                                                   - Instagram: https://www.instagram.com/oarodriguez.s
-                                                   
-                                                   ---
-                                                   
-                                                   📝 Nota
-                                                   
-                                                   Este repositorio contiene mi Curriculum Vitae en versión digital.
-                                                   Para cualquier proyecto, colaboración o propuesta laboral, estoy disponible vía correo electrónico.
-                                                   
-                                                   ---
-                                                   
-                                                   © 2025 — Omar Rodríguezn cargo como Analista Programador o Desarrollador Web en una empresa que brinde:
+   - Laravel — Básico
+- Bases de Datos:
+   - PostgreSQL — Avanzado
+   - MySQL — Intermedio
+   - MongoDB — Básico
+- Otros:
+   - Node.js — Intermedio
+   - Git — Intermedio
 
-- Estabilidad
-- Oportunidades de crecimiento profesional
-- Buen paquete salarial
-- Excelente ambiente laboral
+🎨 Frontend
+
+- Frameworks JavaScript:
+   - Angular — Intermedio
+   - Vue — Intermedio
+   - React — Básico
+   - Sails — Básico
+- CSS Frameworks:
+   - Bootstrap — Avanzado
+   - Materialize — Intermedio
+   - Bulma — Básico
+   - Tailwind CSS — Básico
 
 ---
 
-🧠 Conocimientos Técnicos
+🌍 Información Personal
 
-🔧 Backend
+- Nombre: Omar Andrés Rodríguez S.
+- Nacionalidad: Venezolana
+- Dirección: Maracay, Estado Aragua — Venezuela
+- Emails:
+   - omargumer22@gmail.com
+   - oarodriguez.s@hotmail.com
 
-- PHP Frameworks:
-   - CodeIgniter 3 — Avanzado
-      - Laravel — Básico
-      - Bases de Datos:
-         - PostgreSQL — Avanzado
-            - MySQL — Intermedio
-               - MongoDB — Básico
-               - Otros:
-                  - Node.js — Intermedio
-                     - Git — Intermedio
+---
 
-                     🎨 Frontend
+🔗 Redes Sociales
 
-                     - Frameworks JavaScript:
-                        - Angular — Intermedio
-                           - Vue — Intermedio
-                              - React — Básico
-                                 - Sails — Básico
-                                 - CSS Frameworks:
-                                    - Bootstrap — Avanzado
-                                       - Materialize — Intermedio
-                                          - Bulma — Básico
-                                             - Tailwind CSS — Básico
+- GitHub: https://github.com/oarodriguez29
+- Instagram: https://www.instagram.com/oarodriguez.s
 
-                                             ---
+---
 
-                                             🌍 Información Personal
+📝 Nota
 
-                                             - Nombre: Omar Andrés Rodríguez S.
-                                             - Nacionalidad: Venezolana
-                                             - Dirección: Maracay, Estado Aragua — Venezuela
-                                             - Emails:
-                                                - omargumer22@gmail.com
-                                                   - oarodriguez.s@hotmail.com
+Este repositorio contiene mi Curriculum Vitae en versión digital.
+Para cualquier proyecto, colaboración o propuesta laboral, estoy disponible vía correo electrónico.
 
-                                                   ---
+---
 
-                                                   🔗 Redes Sociales
-
-                                                   - GitHub: https://github.com/oarodriguez29
-                                                   - Instagram: https://www.instagram.com/oarodriguez.s
-
-                                                   ---
-
-                                                   📝 Nota
-
-                                                   Este repositorio contiene mi Curriculum Vitae en versión digital.
-                                                   Para cualquier proyecto, colaboración o propuesta laboral, estoy disponible vía correo electrónico.
-
-                                                   ---
-
-                                                   © 2025 — Omar Rodríguez
+© 2025 — Omar Rodríguez
