@@ -1,27 +1,225 @@
-# Cv
+📄 Curriculum Vitae — Omar Andrés Rodríguez S.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+<img src="./assets/img/perfil.jpg" alt="Foto de perfil" width="150" height="150" style="border-radius: 50%;" />Software Developer | Full Stack Developer (PHP / JavaScript)
++3 años de experiencia en desarrollo web Backend y Frontend
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🚀 Sobre mí
 
-## Code scaffolding
+Desarrollador web con sólida experiencia en proyectos a la medida, tanto en Backend como en Frontend. Me caracterizo por ofrecer soluciones eficientes, limpias y escalables. Poseo conocimientos avanzados en CodeIgniter 3, PostgreSQL y Bootstrap, además de experiencia en Angular, Vue y Node.js.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Busco oportunidades donde pueda crecer profesionalmente, aportar valor técnico y formar parte de un equipo con un excelente ambiente laboral.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+🎓 Formación Académica
 
-## Running unit tests
+- Técnico Superior Universitario en Informática
+Instituto Universitario de Tecnología de Administración Industrial (IUTA)
+2011 – 2014
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Diplomado en Desarrollo Web
+Instituto Universitario de Tecnología de Administración Industrial (IUTA)
+2017
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+📘 Cursos Realizados
 
-## Further help
+- Curso Profesional de Desarrollo Web — Código Facilito (2020)
+- Curso Profesional de JavaScript — Código Facilito (2020)
+- Curso Profesional de Base de Datos MySQL — Código Facilito (2020)
+- Curso Profesional de React en JavaScript — Código Facilito (2020)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+💼 Experiencia Profesional
+
+- Desarrollador Freelance
+Contribuciones al desarrollo web — Hispano Soluciones (HS) (2019)
+
+- Analista Programador de Sistemas
+Instituto de Ferrocarriles del Estado (IFE), Edo. Miranda — 2016 - Actualidad
+
+---
+
+🎯 Objetivo Laboral
+
+Aspirar a u📄 Curriculum Vitae — Omar Andrés Rodríguez S.
+
+<img src="./assets/img/perfil.jpg" alt="Foto de perfil" width="150" height="150" style="border-radius: 50%;" />Software Developer | Full Stack Developer (PHP / JavaScript)
++3 años de experiencia en desarrollo web Backend y Frontend
+
+---
+
+🚀 Sobre mí
+
+Desarrollador web con sólida experiencia en proyectos a la medida, tanto en Backend como en Frontend. Me caracterizo por ofrecer soluciones eficientes, limpias y escalables. Poseo conocimientos avanzados en CodeIgniter 3, PostgreSQL y Bootstrap, además de experiencia en Angular, Vue y Node.js.
+
+Busco oportunidades donde pueda crecer profesionalmente, aportar valor técnico y formar parte de un equipo con un excelente ambiente laboral.
+
+---
+
+🎓 Formación Académica
+
+- Técnico Superior Universitario en Informática
+Instituto Universitario de Tecnología de Administración Industrial (IUTA)
+2011 – 2014
+
+- Diplomado en Desarrollo Web
+Instituto Universitario de Tecnología de Administración Industrial (IUTA)
+2017
+
+---
+
+📘 Cursos Realizados
+
+- Curso Profesional de Desarrollo Web — Código Facilito (2020)
+- Curso Profesional de JavaScript — Código Facilito (2020)
+- Curso Profesional de Base de Datos MySQL — Código Facilito (2020)
+- Curso Profesional de React en JavaScript — Código Facilito (2020)
+
+---
+
+💼 Experiencia Profesional
+
+- Desarrollador Freelance
+Contribuciones al desarrollo web — Hispano Soluciones (HS) (2019)
+
+- Analista Programador de Sistemas
+Instituto de Ferrocarriles del Estado (IFE), Edo. Miranda — 2016 - Actualidad
+
+---
+
+🎯 Objetivo Laboral
+
+Aspirar a un cargo como Analista Programador o Desarrollador Web en una empresa que brinde:
+
+- Estabilidad
+- Oportunidades de crecimiento profesional
+- Buen paquete salarial
+- Excelente ambiente laboral
+
+---
+
+🧠 Conocimientos Técnicos
+
+🔧 Backend
+
+- PHP Frameworks:
+   - CodeIgniter 3 — Avanzado
+      - Laravel — Básico
+      - Bases de Datos:
+         - PostgreSQL — Avanzado
+            - MySQL — Intermedio
+               - MongoDB — Básico
+               - Otros:
+                  - Node.js — Intermedio
+                     - Git — Intermedio
+                     
+                     🎨 Frontend
+                     
+                     - Frameworks JavaScript:
+                        - Angular — Intermedio
+                           - Vue — Intermedio
+                              - React — Básico
+                                 - Sails — Básico
+                                 - CSS Frameworks:
+                                    - Bootstrap — Avanzado
+                                       - Materialize — Intermedio
+                                          - Bulma — Básico
+                                             - Tailwind CSS — Básico
+                                             
+                                             ---
+                                             
+                                             🌍 Información Personal
+                                             
+                                             - Nombre: Omar Andrés Rodríguez S.
+                                             - Nacionalidad: Venezolana
+                                             - Dirección: Maracay, Estado Aragua — Venezuela
+                                             - Emails:
+                                                - omargumer22@gmail.com
+                                                   - oarodriguez.s@hotmail.com
+                                                   
+                                                   ---
+                                                   
+                                                   🔗 Redes Sociales
+                                                   
+                                                   - GitHub: https://github.com/oarodriguez29
+                                                   - Instagram: https://www.instagram.com/oarodriguez.s
+                                                   
+                                                   ---
+                                                   
+                                                   📝 Nota
+                                                   
+                                                   Este repositorio contiene mi Curriculum Vitae en versión digital.
+                                                   Para cualquier proyecto, colaboración o propuesta laboral, estoy disponible vía correo electrónico.
+                                                   
+                                                   ---
+                                                   
+                                                   © 2025 — Omar Rodríguezn cargo como Analista Programador o Desarrollador Web en una empresa que brinde:
+
+- Estabilidad
+- Oportunidades de crecimiento profesional
+- Buen paquete salarial
+- Excelente ambiente laboral
+
+---
+
+🧠 Conocimientos Técnicos
+
+🔧 Backend
+
+- PHP Frameworks:
+   - CodeIgniter 3 — Avanzado
+      - Laravel — Básico
+      - Bases de Datos:
+         - PostgreSQL — Avanzado
+            - MySQL — Intermedio
+               - MongoDB — Básico
+               - Otros:
+                  - Node.js — Intermedio
+                     - Git — Intermedio
+
+                     🎨 Frontend
+
+                     - Frameworks JavaScript:
+                        - Angular — Intermedio
+                           - Vue — Intermedio
+                              - React — Básico
+                                 - Sails — Básico
+                                 - CSS Frameworks:
+                                    - Bootstrap — Avanzado
+                                       - Materialize — Intermedio
+                                          - Bulma — Básico
+                                             - Tailwind CSS — Básico
+
+                                             ---
+
+                                             🌍 Información Personal
+
+                                             - Nombre: Omar Andrés Rodríguez S.
+                                             - Nacionalidad: Venezolana
+                                             - Dirección: Maracay, Estado Aragua — Venezuela
+                                             - Emails:
+                                                - omargumer22@gmail.com
+                                                   - oarodriguez.s@hotmail.com
+
+                                                   ---
+
+                                                   🔗 Redes Sociales
+
+                                                   - GitHub: https://github.com/oarodriguez29
+                                                   - Instagram: https://www.instagram.com/oarodriguez.s
+
+                                                   ---
+
+                                                   📝 Nota
+
+                                                   Este repositorio contiene mi Curriculum Vitae en versión digital.
+                                                   Para cualquier proyecto, colaboración o propuesta laboral, estoy disponible vía correo electrónico.
+
+                                                   ---
+
+                                                   © 2025 — Omar Rodríguez
