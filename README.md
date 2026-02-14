@@ -1,6 +1,6 @@
 📄 Curriculum Vitae — Omar Andrés Rodríguez S.
 
-<img src="./assets/img/perfil.jpg" alt="Foto de perfil" width="150" height="150" style="border-radius: 50%;" />
+<img src="/src/assets/img/perfil.jpg" alt="Foto de perfil" width="150" height="150" style="border-radius: 50%;" />
 Desarrollador Web | Desarrollador Lamp/Lemp/Lapp con +3 años de experiencia en desarrollo web Backend y Frontend
 
 ---
